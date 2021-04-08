@@ -23,5 +23,4 @@ $me = Developer::create([
     instagram: '@jorgeedvaldo',
 ]);
 ```
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=tchiinhemba&count_private=true&layout=compact&theme=dark)]
 [![Edivaldo's github stats](https://github-readme-stats.vercel.app/api?username=jorgeedvaldo&show_icons=true&count_private=true)](https://github.com/jorgeedvaldo/github-readme-stats)
