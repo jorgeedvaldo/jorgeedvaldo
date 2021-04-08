@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedvaldo&count_private=true&layout=compact)
 
 ```php
 $me = Developer::create([
@@ -23,4 +22,6 @@ $me = Developer::create([
     instagram: '@jorgeedvaldo',
 ]);
 ```
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedvaldo&count_private=true)
 [![Edivaldo's github stats](https://github-readme-stats.vercel.app/api?username=jorgeedvaldo&show_icons=true&count_private=true)](https://github.com/jorgeedvaldo/github-readme-stats)
